@@ -1,5 +1,5 @@
 import sys
-from graph_lucasroque import sp
+from graphs_lucasroque import sp
 
 if __name__ == '__main__':
     
